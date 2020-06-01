@@ -76,6 +76,7 @@ class App extends React.Component<{}, AppState> {
                     imageElement.style.right = "` + this.state.qr_right + `";
                     imageElement.style.zIndex = "65535";
                     imageElement.style.padding = "4px";
+                    imageElement.style.backgroundColor = "#FFF";
                     imageElement.style.border = "2px solid #f90000"
                 }
                 `
