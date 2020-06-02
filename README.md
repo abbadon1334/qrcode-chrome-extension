@@ -1,3 +1,9 @@
+### How to use
+
+Manual installation :
+- Download [latest release of the extension](https://github.com/abbadon1334/qrcode-chrome-extension/releases/latest/download/build.zip)
+- Drag and drop the zip in Chrome -> More tools -> Extensions
+
 ### QRCode Chrome Extension
 
 ![Image of extension](https://raw.githubusercontent.com/abbadon1334/qrcode-chrome-extension/master/.github_images/QRCode_extension.jpg)
@@ -5,3 +11,4 @@
 #### Options
 
 ![Image of extension options](https://raw.githubusercontent.com/abbadon1334/qrcode-chrome-extension/master/.github_images/QRCode_extension_options.jpg)
+
