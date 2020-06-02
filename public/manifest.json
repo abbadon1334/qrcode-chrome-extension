@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "QrCode Chrome Extension",
   "description": "Show a QRCode while browsing pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "browser_action": {
     "default_popup": "index.html",
     "default_title": "Open the popup"
