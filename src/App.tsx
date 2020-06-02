@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import 'chrome-extension-async';
 import './App.css';
 
